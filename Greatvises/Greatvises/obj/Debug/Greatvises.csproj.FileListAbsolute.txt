@@ -1,0 +1,223 @@
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\obj\Debug\Greatvises.csproj.CoreCompileInputs.cache
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\ApplicationInsights.config
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Greatvises.dll.config
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Greatvises.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Greatvises.pdb
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\csc.exe
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\csc.exe.config
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\csc.rsp
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\csi.exe
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\csi.exe.config
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\csi.rsp
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.AppContext.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Collections.Immutable.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Console.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.IO.Compression.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.IO.FileSystem.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.IO.Pipes.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.AccessControl.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.Claims.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.ValueTuple.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Xml.XPath.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\vbc.exe
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\vbc.exe.config
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\vbc.rsp
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\VBCSCompiler.exe
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\roslyn\VBCSCompiler.exe.config
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Antlr3.Runtime.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\DnsClient.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.Web.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.WindowsServer.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.ApplicationInsights.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.Web.Infrastructure.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\MongoDB.Bson.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\MongoDB.Driver.Core.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\MongoDB.Driver.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Newtonsoft.Json.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Buffers.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Helpers.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Mvc.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Optimization.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Razor.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.WebPages.Deployment.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.WebPages.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.WebPages.Razor.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\WebGrease.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\DnsClient.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\MongoDB.Bson.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\MongoDB.Driver.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\MongoDB.Driver.Core.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Helpers.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Mvc.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Optimization.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.Razor.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.WebPages.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.WebPages.Deployment.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Web.WebPages.Razor.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Newtonsoft.Json.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Antlr3.Runtime.pdb
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.WindowsServer.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.AI.Web.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.Helpers.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.Mvc.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.Optimization.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.Razor.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.WebPages.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\obj\Debug\Greatvises.csproj.CopyComplete
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\obj\Debug\Greatvises.dll
+c:\users\diana bonilla\source\repos\Greatvises\Greatvises\obj\Debug\Greatvises.pdb
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\ApplicationInsights.config
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Greatvises.dll.config
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Greatvises.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Greatvises.pdb
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\csc.exe
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\csc.exe.config
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\csc.rsp
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\csi.exe
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\csi.exe.config
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\csi.rsp
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.AppContext.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Console.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.Claims.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\vbc.exe
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\vbc.exe.config
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\vbc.rsp
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Antlr3.Runtime.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\DnsClient.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.Web.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\MongoDB.Bson.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\MongoDB.Driver.Core.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\MongoDB.Driver.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Newtonsoft.Json.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Buffers.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Helpers.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Mvc.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Optimization.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Razor.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.WebPages.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\WebGrease.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\DnsClient.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\MongoDB.Bson.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\MongoDB.Driver.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\MongoDB.Driver.Core.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Helpers.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Mvc.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Optimization.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Razor.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.WebPages.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Newtonsoft.Json.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Antlr3.Runtime.pdb
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AI.Web.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.Razor.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\obj\Debug\Greatvises.csprojAssemblyReference.cache
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\obj\Debug\Greatvises.csproj.CoreCompileInputs.cache
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\obj\Debug\Greatvises.csproj.CopyComplete
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\obj\Debug\Greatvises.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\obj\Debug\Greatvises.pdb
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Net.Http.Formatting.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Http.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Http.WebHost.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Net.Http.Formatting.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Http.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\System.Web.Http.WebHost.xml
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Diana Bonilla\Documents\Proyecto I aplicada\Greatvises\Greatvises\Greatvises\bin\Microsoft.AspNet.Identity.Core.xml

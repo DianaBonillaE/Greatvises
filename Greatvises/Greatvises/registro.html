@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Sign Up For Beta Form</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <style>
+
+        body {
+            background: #067A4B;
+            font-family: 'Lato', sans-serif;
+            color: #FDFCFB;
+            text-align: center;
+        }
+
+
+        form {
+            width: 600px;
+            margin: 17% auto;
+        }
+
+
+        .header {
+            font-size: 25px;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+        }
+
+
+        .description {
+            font-size: 14px;
+            letter-spacing: 1px;
+            line-height: 1.3em;
+            margin: -2px 0 45px;
+        }
+
+
+        .input {
+            display: flex;
+            align-items: center;
+        }
+
+        .button {
+            height: 44px;
+            border: none;
+            margin-left: 70px;
+        }
+
+        .butto {
+            margin-top: 30px;
+            margin-right: 20px;
+        }
+
+
+        #email {
+            width: 75%;
+            background: #FDFCFB;
+            font-family: inherit;
+            color: #737373;
+            letter-spacing: 1px;
+            text-indent: 5%;
+            border-radius: 5px 5px 5px 5px;
+        }
+
+
+        #submit {
+            width: 25%;
+            height: 46px;
+            background: #302810;
+            font-family: inherit;
+            font-weight: bold;
+            color: inherit;
+            letter-spacing: 1px;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            transition: background .3s ease-in-out;
+        }
+
+
+            #submit:hover {
+                background: #d45d7d;
+            }
+
+
+        input:focus {
+            outline: none;
+            outline: 2px solid #E86C8D;
+            box-shadow: 0 0 2px #E86C8D;
+        }
+    </style>
+</head>
+<body>
+    <form action="#" method="post" name="sign up for beta form">
+        <div class="header">
+            <p>Bienvenido a la página de registro de Greatvises</p>
+        </div>
+        <div class="description">
+            <p>Ingrese el nombre de su empresa para obtener su clave de registro</p>
+        </div>
+        <div class="input">
+            <input type="text" class="button" id="email" name="email" placeholder="NAME">
+                    </div>
+        <input type="submit" class="butto" id="submit" value="Registrar">
+    </form>
+    <script>
+        $.ajax({
+            url: '/register',
+                    method: 'get',
+            data: { q: requestData },
+            dataType: 'json',
+            success: function (response) {
+                if (response.message != null) {
+                    resultElement.html(response.message);
+                }
+                else {
+                    resultElement.html('Weather: ' + response.weather[0].main + '&lt;br/&gt;'
+                        + 'Description: ' + response.weather[0].description);
+                }
+            },
+            error: function (err) {
+                alert(err);
+            }
+        });
+    </script>
+</body>
+</html>
